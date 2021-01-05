@@ -1,2 +1,2 @@
-# ml-notes
-My own notes about machine learning
+# data-science-notes
+My own notes about data science
