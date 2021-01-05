@@ -5,7 +5,7 @@ This repository contains notes about the machine learning, various tools for dat
 First of all, I'd like to point out that these notes can be subjective because I took the course materials while
 reading, listening or watching. You can find the resources which I just mentioned below.
 
-![graph](images/data.jpg)
+![graph](images/cover_image.jpg)
 
 
 
