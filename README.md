@@ -17,7 +17,7 @@ the [pdf folder](https://github.com/egemenzeytinci/data-science-notes/tree/main/
 
 - [IBM Data Science Specialization](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [Neo4j Online Training](https://neo4j.com/graphacademy/online-training/introduction-to-neo4j)
-- Spark-Scala Tutorial (It was given by [Tarık Yılmaz](https://github.com/trK54Ylmz))
+- Spark-Scala Tutorial (Given by [Tarık Yılmaz](https://github.com/trK54Ylmz))
 - [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
 
 
