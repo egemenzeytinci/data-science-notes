@@ -10,6 +10,9 @@ watching the course materials. You can find the references I mentioned below.
 Another point I would like to convey is that the notes do not contain all of the course materials. As I mentioned
 before, these notes are subjective and in some places only the parts I needed necessary were taken.
 
+Finally, you can find the notes in PDF format under
+the [pdf folder](https://github.com/egemenzeytinci/data-science-notes/tree/main/pdf) in bulk.
+
 #### References
 
 - [IBM Data Science Specialization](https://www.coursera.org/professional-certificates/ibm-data-science)
