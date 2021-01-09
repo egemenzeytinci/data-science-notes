@@ -14,7 +14,7 @@ Another point I would like to convey is that the notes do not contain all of the
 before, these notes are subjective and in some places only the parts I needed necessary were taken.
 
 Finally, you can find the notes in PDF format under
-the [pdf folder](https://github.com/egemenzeytinci/data-science-notes/tree/main/pdf) in bulk.
+the [pdf](https://github.com/egemenzeytinci/data-science-notes/tree/main/pdf) folder in bulk.
 
 ## 📓 List of Notes
 
