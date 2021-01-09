@@ -3,7 +3,7 @@
 This repository contains notes about the machine learning, various tools for data science and big data.
 
 ![cover](images/cover_image.jpg)
-<div style="margin:0 auto; text-align:center;"><span>Photo by <a href="https://unsplash.com/@victor_g?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Victor Garcia</a> on <a href="https://unsplash.com/s/photos/jupiter?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></div>
+<p align="center"><span>Photo by <a href="https://unsplash.com/@victor_g?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Victor Garcia</a> on <a href="https://unsplash.com/s/photos/jupiter?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></p>
 
 ## ⚓ Introduction
 
