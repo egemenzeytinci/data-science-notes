@@ -1,8 +1,12 @@
-### Data Science Notes
+## Data Science Notes
+***
 
 This repository contains notes about the machine learning, various tools for data science and big data.
 
-#### Introduction
+![cover](images/cover_image.jpg)
+
+## ⚓ Introduction
+***
 
 First of all, I'd like to point out that these notes can be subjective because I took them while reading, listening or
 watching the course materials. You can find the references I mentioned below.
@@ -13,7 +17,8 @@ before, these notes are subjective and in some places only the parts I needed ne
 Finally, you can find the notes in PDF format under
 the [pdf folder](https://github.com/egemenzeytinci/data-science-notes/tree/main/pdf) in bulk.
 
-#### References
+## 📓 List of Notes
+***
 
 - [IBM Data Science Specialization](https://www.coursera.org/professional-certificates/ibm-data-science)
     - [Model Development](https://github.com/egemenzeytinci/data-science-notes/tree/main/ibm_data_science_specialization/data_visualization)
